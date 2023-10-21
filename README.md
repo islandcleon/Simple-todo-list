@@ -27,6 +27,7 @@ http://localhost:5000
 
 2. start up the Backend server
 
+    ```bash
     npm run start
 
 ## Frontend
@@ -37,10 +38,12 @@ http://localhost:3000
 
 1. Install the required packages:
 
+    ```bash
     npm install
 
 2. start up the Frontend
 
+    ```bash
     npm start
 
 

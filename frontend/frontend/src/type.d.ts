@@ -1,7 +1,7 @@
 interface ITodo {
-    id: int
+    id: number
     description: string
-    status: int
+    status: number
 }
 
 type TodoProps = {
@@ -10,7 +10,7 @@ type TodoProps = {
 
 type ApiDataType = {
     message: string
-    status: int
+    status: number
     todos: ITodo[]
     todo?: ITodo
   }
